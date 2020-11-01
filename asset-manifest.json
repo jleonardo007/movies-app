@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/movies-app/static/css/main.91bc0007.chunk.css",
+    "main.js": "/movies-app/static/js/main.efbdbe34.chunk.js",
+    "main.js.map": "/movies-app/static/js/main.efbdbe34.chunk.js.map",
+    "runtime-main.js": "/movies-app/static/js/runtime-main.94bcfe81.js",
+    "runtime-main.js.map": "/movies-app/static/js/runtime-main.94bcfe81.js.map",
+    "static/js/2.5d8531d2.chunk.js": "/movies-app/static/js/2.5d8531d2.chunk.js",
+    "static/js/2.5d8531d2.chunk.js.map": "/movies-app/static/js/2.5d8531d2.chunk.js.map",
+    "index.html": "/movies-app/index.html",
+    "precache-manifest.35dd4dd9f770d085623b464510a38c3e.js": "/movies-app/precache-manifest.35dd4dd9f770d085623b464510a38c3e.js",
+    "service-worker.js": "/movies-app/service-worker.js",
+    "static/css/main.91bc0007.chunk.css.map": "/movies-app/static/css/main.91bc0007.chunk.css.map",
+    "static/js/2.5d8531d2.chunk.js.LICENSE.txt": "/movies-app/static/js/2.5d8531d2.chunk.js.LICENSE.txt",
+    "static/media/popcorn.png": "/movies-app/static/media/popcorn.406b8801.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94bcfe81.js",
+    "static/js/2.5d8531d2.chunk.js",
+    "static/css/main.91bc0007.chunk.css",
+    "static/js/main.efbdbe34.chunk.js"
+  ]
+}
